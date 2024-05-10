@@ -1,0 +1,138 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.head h2 a {
+    left: 50px;
+    color: black;
+    font-size: 20px;
+    position: absolute;
+    top: 30px;
+}
+
+.navbar ul {
+    right: 60px;
+    margin-left: 800px;
+    position: absolute;
+    top: 30px;
+}
+
+.navbar li {
+    display: inline;
+}
+
+.navbar li a {
+    margin: 20px;
+    color: black;
+    font-size: 20px;
+}
+
+.p-t h1 {
+    margin: 120px 0 0 50px;
+    display: inline-block;
+}
+
+.p p {
+    margin: 10px 0 0 50px;
+    display: inline-block;
+    padding-right: 900px;
+    color: #808080;
+}
+
+.big-image img{
+    width: 1260px;
+    margin: 40px 0 0 40px;
+}
+
+.text-center-p{
+    text-align: center;
+}
+
+.text-center-p p {
+    padding: 10px 450px;
+    color: #000;
+}
+
+
+.big-image-2 img {
+    margin: 40px 0 20px 250px;
+}
+
+.text-center-p-2{
+    text-align: center;
+}
+
+.text-center-p-2 p{
+    padding: 10px 450px;
+    color: #000;
+}
+
+.related h1{
+    margin: 40px 0 0 40px;
+    font-size: 28px;
+}
+
+.big-image-3 img {
+    margin: 40px 0 0 100px;
+}
+
+.t-a-1 {
+    margin: 0 0 0 100px;
+}
+
+.t-a-1 h2,p {
+    padding: 5px 0px;
+}
+
+.t-a-1 p{
+    color: #808080;
+}
+
+.t-a-2 {
+    margin: -65px 0px 65px 400px;
+}
+
+.t-a-2 h2,p {
+    padding: 5px 0px;
+}
+
+.t-a-2 p{
+    color: #808080;
+}
+
+.t-a-3 {
+    margin: -130px 0px 130px 700px;
+}
+
+.t-a-3 h2,p {
+    padding: 5px 0px;
+}
+
+.t-a-3 p{
+    color: #808080;
+}
+
+.foot a h1 {
+    position: absolute;
+    color: black;
+    font-size: 20px;
+    margin: 20px 0 0 100px;
+}
+
+.social-links {
+    position: absolute;
+    margin: 170px 0 0 100px;
+}
+
+.social-links .fa-xl {
+    font-size: 1.8em;
+    margin-left: 15px;
+    color: #565555;
+}
+
+.topic-page {
+    margin: 0px 0px 20px 800px;
+}
